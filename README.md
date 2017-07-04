@@ -24,6 +24,7 @@ Commands to execute the code successfully
 
 
 Once exploration is completed until given user time
+
 3) rosservice call /controller_turtlebot/start_finding_path "start: true"  ---> finds the path back to initial position
 4) rosservice call /controller_turtlebot/ready_to_go "start: true"    ----> for thr robot to move towards initial position
 
