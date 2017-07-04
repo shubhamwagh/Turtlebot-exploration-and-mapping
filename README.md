@@ -1,5 +1,7 @@
 # Turtlebot-exploration-and-mapping
-Installation
+Autnomous Robotics module UdG Final Project
+
+# Installation
 
 Save this package into catkin_ws/src/.
 
